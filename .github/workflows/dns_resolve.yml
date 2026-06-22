@@ -12,7 +12,7 @@ on:
       server:
         description: "DoH Server (Must support ECS)"
         required: true
-        default: 'https://dns.google/dns-query'
+        default: 'https://dns.alidns.com/dns-query'
       output:
         description: "output file"
         required: true
