@@ -8,7 +8,7 @@ on:
       cidr:
         description: "CIDR for the target area"
         required: true
-        default: '180.137.111.0/24'
+        default: '120.78.71.51/32'
       server:
         description: "DoH Server (Must support ECS)"
         required: true
