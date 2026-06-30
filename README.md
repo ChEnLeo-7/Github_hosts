@@ -2,7 +2,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3%2B-blue?)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/fordes123/steam_hosts/dns_resolve.yml?branch=main) 
 
-利用 Github Action 通过 ECS DNS 解析，自动更新适合不同区域的 Github Hosts 文件
+利用 Github Action 通过 ECS DNS 解析，自动更新适合不同区域的 Steam/Github Hosts 文件
 
 ## 如何使用
 
