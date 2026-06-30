@@ -35,7 +35,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run script
-        run: python dns_resolve.py -c ${{ github.event.inputs.cidr }} -s ${{ github.event.inputs.server }} -o ${{ github.event.inputs.output }}
+        run: python dns_resolve.py -c ${{ github.event.inputs.cidr }} -s ${{ github.event.inputs.server }} -o ${{ github.event.inputs.output }} -d ./domains-steam.txt
 
       - name: Commit Changes
         id: commit
