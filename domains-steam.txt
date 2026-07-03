@@ -1,3 +1,6 @@
+steamcommunity-a.akamaihd.net.edgesuite.net
+steamstore-a.akamaihd.net.edgesuite.net
+steamuserimages-a.akamaihd.net.edgesuite.net
 steam-chat.com
 steamcdn-a.akamaihd.net
 steamcommunity.com
